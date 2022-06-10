@@ -5,7 +5,7 @@
 Git Project for Udacity, this project is for my nanodegree
 
 ### Description
-This project is for the bikeshare.py file project.
+This project is for the bikeshare.py file project for the description.
 
 ### Files used
 bikeshare.py
